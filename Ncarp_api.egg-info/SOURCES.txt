@@ -1,0 +1,16 @@
+setup.py
+DataApi/custom_views/pagination_details.py
+DataApi/custom_views/project_details.py
+DataApi/custom_views/user_details.py
+DataApi/models/mode_details.py
+DataApi/models/page_user_mapping_details.py
+DataApi/models/privilege_details.py
+DataApi/models/project_user_mapping_details.py
+DataApi/models/user_details.py
+DataApi/service/pagination_details.py
+DataApi/service/project_details.py
+DataApi/service/user_details.py
+Ncarp_api.egg-info/PKG-INFO
+Ncarp_api.egg-info/SOURCES.txt
+Ncarp_api.egg-info/dependency_links.txt
+Ncarp_api.egg-info/top_level.txt

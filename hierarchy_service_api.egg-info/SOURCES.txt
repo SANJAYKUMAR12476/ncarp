@@ -1,0 +1,5 @@
+setup.py
+hierarchy_service_api.egg-info/PKG-INFO
+hierarchy_service_api.egg-info/SOURCES.txt
+hierarchy_service_api.egg-info/dependency_links.txt
+hierarchy_service_api.egg-info/top_level.txt
